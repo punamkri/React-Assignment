@@ -1,0 +1,81 @@
+body{
+    text-decoration: none;
+    list-style: none;
+}
+section{
+    /* height: 90vh; */
+    /* max-height: 50vh; */
+    background-color: rgb(21, 21, 63);
+    /* margin: 25px; */
+    /* display: flex; */
+}
+
+
+.clsline{
+    border-left: 7px solid orange;
+    height: 100px;
+    margin-left: 7rem;
+    margin-top: 8rem;
+}
+.clsmsg{
+    margin-top: 40px;
+    font-size: 25px;
+}
+.clspara{
+    font-size: 20px;
+    margin-left: 5rem;
+    margin-top: 8rem;
+    color: white;   
+}
+.clspara h1{
+    font-weight: 900;
+    font-size: 46px;
+}
+.clspara button{
+    background:#28a745;
+    padding: 22px;
+    font-weight: 900;
+    border-radius: 25px;
+    margin-top: 22px;
+
+
+}
+.clspara button a{
+    text-decoration: none;
+}
+@media screen and (max-width:450px){
+    .clspara h1{
+        font-weight: 900;
+        font-size: 30px;
+    }
+    .clspara button{
+        padding: 10px;
+        font-weight: 700;
+        border-radius: 25px;
+        margin-top: 22px;
+    }    
+
+}
+.form-group{
+ margin-top: 1rem;
+}
+.form-check{
+ margin-top: 1rem;
+
+}
+.modal-footer{
+ margin-top: 1rem;
+
+}
+.pri{
+ margin-top: 1rem;
+
+}
+.picture-group{
+ margin-top: 1rem;
+
+}
+.btn-group{
+ margin-top: 1rem;
+
+}

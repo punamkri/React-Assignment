@@ -1,0 +1,39 @@
+.card-fluid{
+     padding: 0 4em 0.1em 4em;
+     background-color: rgb(21, 21, 63);
+
+
+
+    
+}
+.clsrow{
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+    /* margin: 0px 50px 0px  0px; */
+    /* width: calc(100% + 0em); */
+}
+.Clscrd{
+  margin-top: 20px;
+}
+.card-img-top{
+    /* width: 100%; */
+}
+.btn-primary {
+    text-align: center;
+}
+.card-body{
+    background-color: white;
+}
+.btn-primary a{
+    text-align: center;
+}
+.claslist{
+    justify-content: center;
+    align-items: center;
+    word-spacing: 24px;
+}
+.Card-border-text{
+    border: none;
+    background-color: bisque;
+    font-weight: 600;
+}

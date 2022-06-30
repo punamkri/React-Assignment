@@ -1,0 +1,39 @@
+.clsfluid{
+    padding: 50px;
+    background-color: rgb(17, 17, 41);
+
+}
+.clsh1{
+    color: white;
+    margin: 30px;
+}
+
+.clsbt button{
+    border-top-left-radius:15px ;
+    border-bottom-left-radius:15px ;
+    color: black;
+
+
+}
+ button  {
+    border-right: none;
+    background-color: white;
+
+}
+.fa-search{
+    font-size: 25px;
+    padding: 10px;
+}
+input{
+    width: 900px;
+    border-left: none;
+    border-top-right-radius:15px ;
+    border-bottom-right-radius: 15px;
+
+
+}
+.filter{
+  width: 200px;
+  border-radius:15px ;
+
+}

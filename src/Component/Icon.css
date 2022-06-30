@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+.clspy{
+    background-color: rgb(17, 17, 41);
+    
+}
+.pen{
+    font-size: 55px;
+    color: white;
+}
+.clsflx{
+    font-size: 25px;
+    font-weight: 500;
+}
+.msg{
+    margin-left: 2rem;
+    color: white;
+}
+.clslines{
+    border-left: 7px solid orange;
+    height: 50px;
+    margin-left: 7rem;
+}
+@media screen and (max-width:450px){
+    .clsflx{
+        font-size: 15px;
+        font-weight: 500;
+    }
+    .msg{
+        /* margin-left: 0rem; */
+        color: white;
+    }
+    .pen{
+        font-size: 30px;
+        color: white;
+    }
+    .clslines{
+        border-left: 7px solid orange;
+        height: 50px;
+        margin-left: 0rem;
+    }
+    
+}
